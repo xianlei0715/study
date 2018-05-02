@@ -1,3 +1,5 @@
 git is a version control tool
 git is free
-gis is begin
+git is begin
+
+git add second line
